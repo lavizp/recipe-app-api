@@ -21,3 +21,4 @@ class CalcTests(SimpleTestCase):
         res = calc.substract(4, 1)
 
         self.assertEqual(res, 3)
+
